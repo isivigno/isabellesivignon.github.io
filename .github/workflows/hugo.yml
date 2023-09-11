@@ -1,3 +1,4 @@
+
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
@@ -54,7 +55,7 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-	  working-directory: ./starter-hugo-academic-main
+	  #working-directory: ./starter-hugo-academic-main
         run: |
           hugo \
             --gc \
