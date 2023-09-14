@@ -220,7 +220,7 @@ sections:
       title: Courses
       filters:
         folders:
-          - event
+          - courses
     design:
       columns: '2'
       view: compact
