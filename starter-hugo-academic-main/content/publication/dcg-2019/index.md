@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '($δ$ ,$ɛ$)-Ball Approximation of a Shape: Definition and Complexity'
+title: '(delta,epsilon)-Ball Approximation of a Shape: Definition and Complexity'
 subtitle: ''
 summary: ''
 authors:

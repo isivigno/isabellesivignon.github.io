@@ -1,7 +1,7 @@
 ---
 title: Average Curve of n Digital Curves
 date: '2019-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T14:59:58.459020Z'
 authors:
 - Isabelle Sivignon

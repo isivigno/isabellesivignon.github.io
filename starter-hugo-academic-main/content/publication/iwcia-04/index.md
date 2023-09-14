@@ -1,7 +1,7 @@
 ---
 title: Discrete Surface Segmentation into Discrete Planes
 date: '2004-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:02:38.772148Z'
 authors:
 - I. Sivignon

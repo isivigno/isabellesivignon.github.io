@@ -1,7 +1,7 @@
 ---
 title: Digital Plane Preimage Structure
 date: '2003-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:03:04.428988Z'
 authors:
 - D. Coeurjolly

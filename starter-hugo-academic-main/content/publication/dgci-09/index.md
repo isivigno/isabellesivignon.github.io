@@ -1,7 +1,7 @@
 ---
 title: On Three Constrained Versions of the Digital Circular Arc Recognition Problem
 date: '2009-09-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:02:02.304726Z'
 authors:
 - T. Roussillon

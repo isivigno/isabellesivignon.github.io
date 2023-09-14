@@ -1,7 +1,7 @@
 ---
 title: Ensuring k-coverage in Low-Power Wide Area Networks for Internet of Things
 date: '2017-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:00:15.770362Z'
 authors:
 - Zhuocheng Li

@@ -1,7 +1,7 @@
 ---
 title: 'Epsilon-covering: a greedy optimal algorithm for simple shapes'
 date: '2016-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:01:04.084016Z'
 authors:
 - Tuong-Bach Nguyen

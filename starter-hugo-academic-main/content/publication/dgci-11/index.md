@@ -2,7 +2,7 @@
 title: A Near-Linear Time Guaranteed Algorithm for Digital Curve Simplification under
   the Fréchet Distance
 date: '2011-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:01:42.620311Z'
 authors:
 - I. Sivignon

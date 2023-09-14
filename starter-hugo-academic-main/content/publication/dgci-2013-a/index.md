@@ -2,7 +2,7 @@
 title: Walking in the Farey Fan to Compute the Characteristics of a Discrete Straight
   Line Subsegment
 date: '2013-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:01:33.809237Z'
 authors:
 - Isabelle Sivignon

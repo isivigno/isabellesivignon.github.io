@@ -32,6 +32,6 @@ publishDate: '2023-09-12T14:38:00.547750Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Discrete Applied Mathematics *'
+publication: 'Discrete Applied Mathematics'
 doi: http://dx.doi.org/10.1016/j.dam.2014.04.017
 ---

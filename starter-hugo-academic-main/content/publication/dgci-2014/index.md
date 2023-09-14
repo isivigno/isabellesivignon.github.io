@@ -1,7 +1,7 @@
 ---
 title: Algorithms for Fast Digital Straight Segments Union
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:01:33.701002Z'
 authors:
 - Isabelle Sivignon

@@ -32,5 +32,5 @@ publishDate: '2023-09-12T14:38:01.904729Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Discrete Applied Mathematics*'
+publication: 'Discrete Applied Mathematics'
 ---

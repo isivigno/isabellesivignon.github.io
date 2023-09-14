@@ -2,7 +2,7 @@
 title: Computation of Binary Objects Sides Number using Discrete Geometry, Application
   to Automatic Pebbles Shape Analysis
 date: '2007-01-01'
-draft: true
+draft: false
 publishDate: '2023-09-12T15:02:20.970406Z'
 authors:
 - T. Roussillon

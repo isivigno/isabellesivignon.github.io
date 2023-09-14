@@ -5,6 +5,11 @@
 
 # Appearance
 
+
+# features:
+#   math:
+#     enable: true
+
 appearance:
   theme_day: earth
   theme_night: earth
@@ -28,6 +33,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
+
 
 # Site header
 
