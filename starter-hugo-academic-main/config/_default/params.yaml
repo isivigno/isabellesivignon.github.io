@@ -14,7 +14,7 @@ appearance:
   theme_day: earth
   theme_night: earth
   font: classic
-  font_size: s
+  font_size: xs
 
 # SEO
 
