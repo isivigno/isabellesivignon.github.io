@@ -1,7 +1,0 @@
-@unpublished{makerbreaker,
-  author =       {Galliot, Florian and Gravier, Sylvain and Sivignon, Isabelle},
-  title =        {Maker-Breaker is solved in polynomial time on hypergraphs of rank 3},
-  note =         {Soumis à la {\bf revue} Journal of Combinatorial Theory, Series A. (oct. 2022) \url{https://arxiv.org/abs/2209.12819}, 64p.},
-  year =         {2022},
-  url = {https://arxiv.org/abs/2209.12819}
-}
